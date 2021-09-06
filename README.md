@@ -1,9 +1,11 @@
-Guardian Mobile Redirector Chrome Plugin
+Facebook Marketplace Always Local Chrome Plugin
 ======================
 
-Chrome Extension to redirect all www.theguardian.com urls to the mobile site using the query string: www.guardian.co.uk?view=mobile.
+The reason I use Facebook Marketplace is to see things being sold by local people that I can go see myself, and pick up myself. However, Facebook Marketplace also has a lot of products that are shipped from around the country. I can't see them myself to verify what they are, and if I want something shipped to me I might as well go to Amazon.
+However, Facebook makes it very difficult to adjust your default settings so that all searches default to "Local Pickup" as the delivery option. Every time you search for something new, you have to manually check that box.
 
-Wouldn't you rather view the Guardian's lovely responsive mobile site than their old desktop site?
+Until now!
+
 
 
 Installation
