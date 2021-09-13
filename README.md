@@ -17,5 +17,3 @@ Installation
 4. Download this repository
 5. Click 'Load unpacked extension'
 6. Select src folder from this repository
-
-Happy reading.
